@@ -1,6 +1,5 @@
 # DungeonRPG
- Try to survive in a dungeon full of skeletons.
- 
+
  ![](assets/screens/Screenshot1.png)
  
  ![](assets/screens/Screenshot2.png)
