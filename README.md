@@ -7,6 +7,11 @@
  
  ![](assets/screens/Screenshot3.png)
  
+ Google Play:
+  - https://play.google.com/store/apps/details?id=com.godot.lubenem
+ 
+ # Credits
+ 
  Game Engine: 
  - Godot 3.1.1, https://godotengine.org/
  
