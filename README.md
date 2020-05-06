@@ -13,7 +13,7 @@
  # Credits
  
  Game Engine: 
- - Godot 3.1.1, https://godotengine.org/
+ - Godot 3.1.1, https://godotengine.org
  
 Sprites:
  - Elthen, https://elthen.itch.io/2d-pixel-art-dungeon-tileset
