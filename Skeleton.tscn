@@ -1,0 +1,41 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Skeleton.gd" type="Script" id=1]
+[ext_resource path="res://assets/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton1/v2/skeleton_v2_1.png" type="Texture" id=2]
+
+[sub_resource type="CircleShape2D" id=2]
+radius = 5.75412
+
+[sub_resource type="Animation" id=3]
+resource_name = "wounded"
+length = 0.2
+tracks/0/type = "value"
+tracks/0/path = NodePath("Sprite:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.2 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ), Color( 1, 0, 0, 1 ) ]
+}
+
+[node name="Skeleton" type="KinematicBody2D" groups=[
+"enemy",
+]]
+collision_mask = 3
+script = ExtResource( 1 )
+speed = 15
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( -0.485973, 0.0809956 )
+shape = SubResource( 2 )
+
+[node name="Sprite" type="Sprite" parent="."]
+scale = Vector2( 0.8, 0.8 )
+texture = ExtResource( 2 )
+
+[node name="Animation" type="AnimationPlayer" parent="."]
+anims/wounded = SubResource( 3 )

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/zapsplat_multimedia_game_sound_synth_digital_two_tone_beep_005_38543.wav-8f454211df13c4d329dbd5b025073013.sample"
+
+[deps]
+
+source_file="res://assets/sound/zapsplat_multimedia_game_sound_synth_digital_two_tone_beep_005_38543.wav"
+dest_files=[ "res://.import/zapsplat_multimedia_game_sound_synth_digital_two_tone_beep_005_38543.wav-8f454211df13c4d329dbd5b025073013.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
