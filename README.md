@@ -8,22 +8,16 @@
  ![](assets/screens/Screenshot3.png)
  
  Game Engine: 
- - Unity 2019.3
-
-Unity Assets:
- - Fenerax Studios, https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
-
+ - Godot 3.1.1 https://godotengine.org/
+ 
 Sprites:
- - Enyph Games 2019, https://opengameart.org/content/dungeon-tileset-32x32
- - OddPotatoGift, https://oddpotatogift.itch.io/16x16-dungeon-tileset
- - Pipoya, https://pipoya.itch.io/pipoya-rpg-tileset-32x32
- - Szadi Art, https://szadiart.itch.io/rogue-fantasy-castle
-
- - Buch, https://opengameart.org/content/dungeon-tileset
- - ArMM1998, https://opengameart.org/content/zelda-like-tilesets-and-sprites
- - Sven, https://stensven.itch.io/hero-knight
- - Kyrise, https://kyrise.itch.io/kyrises-free-16x16-rpg-icon-pack
- - Leonard Pabin, https://opengameart.org/content/whispers-of-avalon-grassland-tileset
- - ShikashiAssets, https://shikashiassets.itch.io/shikashis-fantasy-icons-pack
- - Ssugmi, https://ssugmi.itch.io/16x16-rpg-assets
- - Estúdio Vaca Roxa, https://bakudas.itch.io/generic-rpg-pack
+ - Elthen, https://elthen.itch.io/2d-pixel-art-dungeon-tileset
+ - Pixel_Poem, https://pixel-poem.itch.io/dungeon-assetpuck
+ - 0x72, https://0x72.itch.io/dungeontileset-ii
+ - Game Developer Studio, https://opengameart.org/content/high-res-fire-ball
+ - Uheartbeast, https://opengameart.org/content/mobile-rpg-resources
+ 
+ Sound:
+ - Gundatsch, https://soundcloud.com/gundatsch
+ - LittleRobotSoundFactory, https://freesound.org/people/LittleRobotSoundFactory/sounds/270311/
+ - "digital two tone beep 5", https://www.zapsplat.com
