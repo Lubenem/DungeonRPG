@@ -6,12 +6,12 @@
  
  ![](assets/screens/Screenshot3.png)
  
- Google Play:
-  - https://play.google.com/store/apps/details?id=com.godot.lubenem
+Google Play:
+ - https://play.google.com/store/apps/details?id=com.godot.lubenem
  
  # Credits
  
- Game Engine: 
+Game Engine: 
  - Godot 3.1.1, https://godotengine.org
  
 Sprites:
@@ -19,9 +19,11 @@ Sprites:
  - Pixel_Poem, https://pixel-poem.itch.io/dungeon-assetpuck
  - 0x72, https://0x72.itch.io/dungeontileset-ii
  - Game Developer Studio, https://opengameart.org/content/high-res-fire-ball
+ 
+Fonts:
  - Uheartbeast, https://opengameart.org/content/mobile-rpg-resources
  
- Sound:
+Sound:
  - Gundatsch, https://soundcloud.com/gundatsch
  - LittleRobotSoundFactory, https://freesound.org/people/LittleRobotSoundFactory/sounds/270311/
  - "digital two tone beep 5", https://www.zapsplat.com
