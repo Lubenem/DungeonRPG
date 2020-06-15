@@ -23,7 +23,7 @@ Sprites:
 Fonts:
  - Uheartbeast, https://opengameart.org/content/mobile-rpg-resources
  
-Sound:
+Sounds:
  - Gundatsch, https://soundcloud.com/gundatsch
  - LittleRobotSoundFactory, https://freesound.org/people/LittleRobotSoundFactory/sounds/270311/
  - "digital two tone beep 5", https://www.zapsplat.com
